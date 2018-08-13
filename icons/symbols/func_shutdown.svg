@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="b"
+   width="50"
+   height="50"
+   version="1.1"
+   sodipodi:docname="func_shutdown.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     id="namedview69"
+     showgrid="false"
+     inkscape:zoom="13.111111"
+     inkscape:cx="21.20339"
+     inkscape:cy="30.355932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="b" />
+  <metadata
+     id="d">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="e">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#090d11;}.ColorScheme-Background{color:#ffffff;}</style>
+  </defs>
+  <path
+     id="c"
+     class="ColorScheme-Text"
+     d="m 22,4.0042 v 24 h 6 v -24 z M 16,6.0667 C 8.911,9.4393 4,16.6312 4,25.0042 c 0,11.598 9.402,21 21,21 11.598,0 21,-9.402 21,-21 C 46,16.6312 41.089,9.4393 34,6.0667 v 6.9375 c 3.6255,2.73804 6,7.1067 6,12 0,8.2842 -6.7158,15 -15,15 -8.2842,0 -15,-6.7158 -15,-15 0,-4.8933 2.37456,-9.2619 6,-12 z"
+     style="color:#090d11;fill:currentColor;fill-opacity:0.75;stroke-width:3"
+     inkscape:connector-curvature="0" />
+  <path
+     id="a"
+     class="ColorScheme-Background"
+     d="M 19,1 V 31 H 31 V 1 Z M 13.3633,4 C 5.9626,8.0842 1,15.9433 1,25 1,38.2549 11.7451,49 25,49 38.2549,49 49,38.2549 49,25 49,15.9433 44.0374,8.0842 36.6367,4 l 0.36327,3.8436 c 5.4129,3.7908 9,10.0434 9,17.1564 0,11.598 -9.402,21 -21,21 -11.598,0 -21,-9.402 -21,-21 0,-7.113 3.5871,-13.3653 9,-17.1564 L 13.36324,4 Z M 22,4 h 6 v 24 h -6 z"
+     style="color:#ffffff;fill:currentColor;fill-opacity:0.5;stroke-width:3"
+     inkscape:connector-curvature="0" />
+</svg>
