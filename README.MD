@@ -1,6 +1,6 @@
 Author: onecastell [github.com/onecastell]
 
-Version: 0.5
+Version: 0.6
 
 License: Creative Commons Attribution-ShareAlike 4.0 International Public License 
 
