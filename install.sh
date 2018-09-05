@@ -8,9 +8,10 @@ then
     exit 128
 fi
 
+#Force install(Overwrites theme files in ESP)
 if [ "$1" == 'dev' ];
 then 
-    cp -vr $PWD /boot/efi/EFI/refind/
+    cp -vrf $PWD /boot/efi/EFI/refind/
     echo "Developer Override"
     exit 1
 fi
