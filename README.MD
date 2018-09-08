@@ -1,9 +1,10 @@
-Author: onecastell [github.com/onecastell]
+![alt text](/preview.png "refind-castell")
 
-Version: 0.6
+# Castell : A Clean Theme based on Evolvere Icon Pack
 
-License: Creative Commons Attribution-ShareAlike 4.0 International Public License 
 
-Attribution: Evolvere-Icons by Frank Souza [https://github.com/franksouza183] 
+#### Version: 1.0
 
-Icon Pack: Modified Evolvere-Icons
+### Attribution
+Evolvere-Icons by Frank Souza [https://github.com/franksouza183]
+Background: Lorenzo Cafaro[https://www.pexels.com/photo/background-cement-concrete-paint-242236/]
